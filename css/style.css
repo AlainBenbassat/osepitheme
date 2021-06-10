@@ -1,0 +1,52 @@
+body {
+  background: #fff;
+  color: #141414;
+  font-family: "GT-America",Arial;
+  font-feature-settings: 'kern';
+  font-kerning: normal;
+  text-rendering: optimizeLegibility;
+  font-variant-ligatures: common-ligatures;
+}
+
+#navbar {
+  background-color: #ffffff;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-color: #f0f0f0;
+  padding: 0;
+}
+
+a.logo img {
+  width: 200px;
+}
+
+h1.page-header {
+  padding-bottom: 24px;
+  border-bottom: 5px solid #1f1f1f;
+  font-weight: 700;
+}
+
+.btn-primary {
+  background-color: #05d192;
+  border-color: #00be81;
+}
+
+.btn-primary:hover {
+  background-color: #00be81;
+  border-color: #00be81;
+}
+
+div#crm-container div.label {
+  color: #333333;
+  display: block;
+  width: 100%;
+  text-align: left;
+}
+
+div#crm-container div.content {
+  margin-left: 10px;
+  margin-bottom: 20px;
+}
+
+
